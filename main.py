@@ -7,4 +7,4 @@ image=list(popular_df['Image-URL-M'].values),
 votes=list(popular_df['num_ratings'].values),
 rating=list(popular_df['avg_rating'].values)
 
-print(book_name , author , image , votes , rating)
+# print(book_name , author , image , votes , rating)
